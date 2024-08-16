@@ -1,6 +1,7 @@
 # Adidas_Sales_Data_Analysis_using_SQL
 
 -- What is the average price per unit of products sold?
+
  select avg(Price_per_Unit) as avg_price from adidas_sales.adidas ;
  
  -- How many total units were sold
